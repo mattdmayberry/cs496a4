@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "EE2E41E00B5B8702727CB3C93FFCAF95A42BCC45",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "5BA9344C782683020C8C8BD89C0D4C3587BA239A" : 0,
+    "EE2E41E00B5B8702727CB3C93FFCAF95A42BCC45" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6977F7D7-C0E2-405B-A7EC-45F02B1DECA5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "5BA9344C782683020C8C8BD89C0D4C3587BA239A" : "",
+    "EE2E41E00B5B8702727CB3C93FFCAF95A42BCC45" : "Stormy\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Forecast",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Forecast.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:mattdmayberry\/cs496a4.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5BA9344C782683020C8C8BD89C0D4C3587BA239A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mattdmayberry\/Stormy.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EE2E41E00B5B8702727CB3C93FFCAF95A42BCC45"
+    }
+  ]
+}
