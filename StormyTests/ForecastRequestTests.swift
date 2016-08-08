@@ -1,14 +1,12 @@
 //
-//  StormyTests.swift
-//  StormyTests
+//  Forecast
 //
-//  Created by Ben Goertz on 9/15/15.
-//  Copyright © 2015 Ben Goertz. All rights reserved.
+//  Created by Matthew D Mayberry on 7/31/16.
 //
 
 import XCTest
 import CoreLocation
-@testable import Stormy
+@testable import Forecast
 
 class ForecaseRequestTests: XCTestCase {
     

@@ -1,13 +1,11 @@
 //
-//  CurrentWeatherModelTests.swift
-//  Stormy
+//  Forecast
 //
-//  Created by Ben Goertz on 12/18/15.
-//  Copyright © 2015 Ben Goertz. All rights reserved.
+//  Created by Matthew D Mayberry on 7/31/16.
 //
 
 import XCTest
-@testable import Stormy
+@testable import Forecast
 
 class CurrentWeatherModelTests: XCTestCase {
 	
