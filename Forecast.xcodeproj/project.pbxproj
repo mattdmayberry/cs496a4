@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		268F377F1D582B0B005C0858 /* StormyTests in Resources */ = {isa = PBXBuildFile; fileRef = 268F377E1D582B0B005C0858 /* StormyTests */; };
+		268F37801D582B0B005C0858 /* StormyTests in Resources */ = {isa = PBXBuildFile; fileRef = 268F377E1D582B0B005C0858 /* StormyTests */; };
 		9B231DEC1B55EB6900B5C965 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9B231DEB1B55EB6900B5C965 /* CoreLocation.framework */; };
 		9B742B551A3BBD4300C72373 /* CurrentWeatherModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B742B541A3BBD4300C72373 /* CurrentWeatherModel.swift */; };
 		9B814EB61B562D1100926B24 /* keys.plist in Resources */ = {isa = PBXBuildFile; fileRef = 9B814EB51B562D1100926B24 /* keys.plist */; };
@@ -45,6 +47,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		268F377E1D582B0B005C0858 /* StormyTests */ = {isa = PBXFileReference; lastKnownFileType = folder; name = StormyTests; path = ../../../../Desktop/StormyTests; sourceTree = "<group>"; };
 		9B231DEB1B55EB6900B5C965 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
 		9B742B521A3BA21B00C72373 /* Scratchpad.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Scratchpad.playground; sourceTree = "<group>"; };
 		9B742B541A3BBD4300C72373 /* CurrentWeatherModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CurrentWeatherModel.swift; sourceTree = "<group>"; };
@@ -85,6 +88,7 @@
 		9BC7925D1A3B96A0005CBC8A = {
 			isa = PBXGroup;
 			children = (
+				268F377E1D582B0B005C0858 /* StormyTests */,
 				9BC792681A3B96A0005CBC8A /* Forecast */,
 				9BC792671A3B96A0005CBC8A /* Products */,
 				9B231DEB1B55EB6900B5C965 /* CoreLocation.framework */,
@@ -213,6 +217,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				268F37801D582B0B005C0858 /* StormyTests in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -220,6 +225,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				268F377F1D582B0B005C0858 /* StormyTests in Resources */,
 				9B814EB61B562D1100926B24 /* keys.plist in Resources */,
 				9BC792711A3B96A0005CBC8A /* Main.storyboard in Resources */,
 				9BC792761A3B96A0005CBC8A /* LaunchScreen.xib in Resources */,
