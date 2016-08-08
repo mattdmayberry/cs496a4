@@ -88,8 +88,8 @@
 		9BC7925D1A3B96A0005CBC8A = {
 			isa = PBXGroup;
 			children = (
-				268F377E1D582B0B005C0858 /* StormyTests */,
 				9BC792681A3B96A0005CBC8A /* Forecast */,
+				268F377E1D582B0B005C0858 /* StormyTests */,
 				9BC792671A3B96A0005CBC8A /* Products */,
 				9B231DEB1B55EB6900B5C965 /* CoreLocation.framework */,
 			);
